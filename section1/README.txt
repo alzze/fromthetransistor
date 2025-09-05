@@ -1,1 +1,1 @@
-https://alzze.github.io/fromthetransistor
+https://alzze.github.io/posts/fromthetransistor
