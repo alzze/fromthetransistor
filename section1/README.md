@@ -1,7 +1,3 @@
----
-title: From the transistor to the web browser
-date: 2025-09-05
----
 ## Transistor theory
 
 Transistors are one of the main components in electronics, and they can function as amplifiers, switches, or signal modulators. A transistor is a device with three terminals, one of which acts as a control terminal, regulating the behavior of the other two terminals. There are two main types of transistors: BJT and FET.
